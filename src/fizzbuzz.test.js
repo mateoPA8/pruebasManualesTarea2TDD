@@ -10,9 +10,16 @@ describe("Fizzbuzz", () => {
   it("deberia devolver buzz si el numero es 5", () => {
     expect(fizzbuzz(5)).toEqual("buzz");
   });
+   it("deberia devolver fizzbuzz si el numero es par de 3 y 5", () => {
+    expect(fizzbuzz(15)).toEqual("fizzbuzz");
+  });
 });
 
 function fizzbuzz(n){
+    if (n%5==0 && n%3==0)
+    {
+        return "fizzbuzz";
+    }
     if(n==3){
         return "fizz";
     }
