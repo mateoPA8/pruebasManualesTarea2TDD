@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "10887e2a3772bccb9416cd52d1d24f64b8d7a6a3",
     "author": "Your Name",
     "commit": {
       "date": "2025-06-14T00:35:45.000Z",
       "message": "deberia salir resultado fallido de un commit porque falla el test",
-      "url": "https://github.com/mateoPA8/pruebasManualesTarea2TDD/commit/HEAD"
+      "url": "https://github.com/mateoPA8/pruebasManualesTarea2TDD/commit/10887e2a3772bccb9416cd52d1d24f64b8d7a6a3"
     },
     "stats": {
       "total": 0,
@@ -131,5 +131,24 @@
     "test_count": 6,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Your Name",
+    "commit": {
+      "date": "2025-06-14T21:20:43.000Z",
+      "message": "comentando tests para ver si baja la grafica en el tddlab",
+      "url": "https://github.com/mateoPA8/pruebasManualesTarea2TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2025-06-14"
+    },
+    "coverage": 100,
+    "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
