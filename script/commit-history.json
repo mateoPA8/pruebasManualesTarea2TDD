@@ -57,18 +57,37 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "0b50fe7f5fc1108dee99188533ae552c47e52d5d",
     "author": "Your Name",
     "commit": {
       "date": "2025-06-13T20:24:06.000Z",
       "message": "devuelve fizzbuzz si el numero es par de 5 y 3",
-      "url": "https://github.com/mateoPA8/pruebasManualesTarea2TDD/commit/HEAD"
+      "url": "https://github.com/mateoPA8/pruebasManualesTarea2TDD/commit/0b50fe7f5fc1108dee99188533ae552c47e52d5d"
     },
     "stats": {
       "total": 0,
       "additions": 0,
       "deletions": 0,
       "date": "2025-06-13"
+    },
+    "coverage": 100,
+    "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Your Name",
+    "commit": {
+      "date": "2025-06-14T00:11:00.000Z",
+      "message": "refactorizando la funcion",
+      "url": "https://github.com/mateoPA8/pruebasManualesTarea2TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2025-06-14"
     },
     "coverage": 100,
     "test_count": 5,
