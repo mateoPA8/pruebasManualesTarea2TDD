@@ -76,11 +76,30 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "22d53d8f3817d029276955064bf372fadf4ddebb",
     "author": "Your Name",
     "commit": {
       "date": "2025-06-14T00:11:00.000Z",
       "message": "refactorizando la funcion",
+      "url": "https://github.com/mateoPA8/pruebasManualesTarea2TDD/commit/22d53d8f3817d029276955064bf372fadf4ddebb"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2025-06-14"
+    },
+    "coverage": 100,
+    "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Your Name",
+    "commit": {
+      "date": "2025-06-14T00:32:02.000Z",
+      "message": "si anado codigo a la funcion y no lo pruebo deberia reducir la cobertura",
       "url": "https://github.com/mateoPA8/pruebasManualesTarea2TDD/commit/HEAD"
     },
     "stats": {

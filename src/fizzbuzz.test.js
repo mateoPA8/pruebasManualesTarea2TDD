@@ -22,7 +22,10 @@ function fizzbuzz(n) {
         return "fizz";
     } else if (n % 5 === 0) {
         return "buzz";
-    } else {
+    } else if(n===1){
         return 1;
+    }
+    if(n==50){
+        return "hola";
     }
 }
