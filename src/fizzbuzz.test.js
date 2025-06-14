@@ -13,6 +13,9 @@ describe("Fizzbuzz", () => {
    it("deberia devolver fizzbuzz si el numero es par de 3 y 5", () => {
     expect(fizzbuzz(15)).toEqual("fizzbuzz");
   });
+  it("deberia devolver buzzfizz si el numero es 100", () => {
+    expect(fizzbuzz(100)).toEqual("buzzfizz");
+  });
 });
 
 function fizzbuzz(n) {
